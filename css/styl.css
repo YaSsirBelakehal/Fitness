@@ -1,0 +1,23 @@
+
+body{background: black;}
+
+form{padding-top: 6%; border-radius: 30px;
+    background: white; width: 60%;
+    margin-left: 21%;margin-top: 5%; height: 400px }
+
+a{
+    height: 70px;
+     font-size: 40px;
+      border-radius: 10px;
+       margin-left: 24%;
+       background: greenyellow;
+       color: black;
+       border: black solid 2px;
+    text-decoration: none;
+    
+}
+
+
+      
+
+       h1{margin-left: 37%;margin-top: 6%; color:greenyellow; font-size: 40px;}
